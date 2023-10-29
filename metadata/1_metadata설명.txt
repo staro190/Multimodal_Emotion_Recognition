@@ -1,0 +1,8 @@
+감정분류용데이터셋 결과
+- text: KEMdy19_conf.csv
+- face : video_result_0512.csv
+
+실험데이터 결과
+- text : text_result.csv
+- face : face_result.csv
+- all data : alldata_result.csv
