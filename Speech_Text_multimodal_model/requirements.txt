@@ -1,5 +1,0 @@
-pandas
-librosa
-transformers
-pytorch-lightning
-sklearn
